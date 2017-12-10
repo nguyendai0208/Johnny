@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A89342E-8EEB-445A-BC89-17DF8F0887A2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PortfolioApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC92D394-FD82-4CBD-9A71-73354B5F3CBA</key>
+		<string>ssh://bitbucket.org/huongnguyen166/portfolio-v2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>portfolio-app-new/PortfolioApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC92D394-FD82-4CBD-9A71-73354B5F3CBA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/huongnguyen166/portfolio-v2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC92D394-FD82-4CBD-9A71-73354B5F3CBA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC92D394-FD82-4CBD-9A71-73354B5F3CBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>portfolio-v2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
